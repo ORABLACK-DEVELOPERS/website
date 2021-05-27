@@ -8,4 +8,7 @@ Do you want to contribute to this project even for editing this file(README.md) 
 
 You can do some things,that is listed Below
 
-     🔘 If you found  A Bug or an issue tell that in the issues tab
+     🔘 If you found  A Bug or an issue tell that in the issues tab 
+  How to Tell ?
+  
+     🔘 Go to the issues Tab tap on 

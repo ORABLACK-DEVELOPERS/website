@@ -1,6 +1,8 @@
 # About
 This is our official website repository.in this website we will upload our products such as android app(currently),Discord Bots  may be upload in future
 
+If you liked this repository or say your support by clicking  'Star' !
+
 # Contribute
 Do you want to contribute to this project even for editing this file(README.md) or suggest your opinions to Devs, obviously you can do that.
 

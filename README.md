@@ -1,5 +1,6 @@
 # About
-This is our official website repository.in this website we will upload our products such as android app(currently),Discord Bots  may be upload in future
+
+ORABLACK Developers website. Contribute to help us
 
 If you liked this repository or say your support by clicking  'Star' !
 
@@ -35,9 +36,8 @@ You can do some things,that is listed Below
           
  Next Step
                
-          🔘 Clone the repo from there  and  start coding 
+          🔘 Clone the repo from there  and  make the changes
           
-After applying your ideas or the suggestions from issues or Discussions 
+Finally
 
-           🔘  Git Push to the repo under your account after that you will see a button Pull Request and make a Pull Request with brief description and full description that's all
-
+           🔘  Git Push to the repo under your account after that you will see a button Pull Request and make a Pull Request with brief description and full description that's all!

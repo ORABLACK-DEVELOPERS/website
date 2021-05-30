@@ -1,11 +1,15 @@
 # About
 
-ORABLACK Developers website. Contribute to help us
+ORABLACK Developers website.
 
 If you liked this repository or say your support by clicking  'Star' !
 
 # Contribute
-Contribute to Help us
+ Contribute to help us!
+  
+  ## Requirement
+
+  You need a Github Account
 
 # How To Contribute (Dont Know Coding)
 
@@ -44,4 +48,4 @@ Finally
 
 ### Website Link
 
-  https://orablack-developers.github.io/website/
+  https://orablackdevelopers.netlify.app/project-details/bgthemex

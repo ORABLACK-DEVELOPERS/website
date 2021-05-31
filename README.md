@@ -48,4 +48,4 @@ Finally
 
 ### Website Link
 
-  https://orablackdevelopers.netlify.app/project-details/bgthemex
+  https://orablackdevelopers.netlify.app

@@ -20,7 +20,7 @@ You can do some things,that is listed Below
   
      🔘 Go to the issues Tab tap on "New Issue". Enter your issue titl, tell about the issue in the description also include what do we want to do amd click submit issue
      
-  Make sure that the issu you found is not reported by other people
+  Make sure that the issue you found is not reported by other people
   
   The second thing that you can do is writing your opinions or suggestions in The Discussions Tab
   

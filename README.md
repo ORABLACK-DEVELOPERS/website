@@ -26,7 +26,7 @@ You can do some things,that is listed Below
   
   How ?
    
-    🔘Writing in Discussion Tab is is very easy.Just got to the Discussions Tab, you will see 'Suggestions' Click on the Suggestions,there you will find to write comments.write 
+    🔘Writing in Discussion Tab is is very easy.Just got to the Discussions Tab, you will see 'Feedback' Click on the Feedback,there you will find to write comments.write 
        Your  Suggestion there and click 'Comment'
  
   

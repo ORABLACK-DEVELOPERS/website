@@ -18,7 +18,7 @@ You can do some things,that is listed Below
      🔘 If you found  A Bug or an issue tell that in the issues tab 
   How to Tell in issue tab ?
   
-     🔘 Go to the issues Tab tap on "New Issue". Enter your issue titl, tell about the issue in the description also include what do we want to do amd click submit issue
+     🔘 Go to the issues Tab tap on "New Issue". Enter your issue title, tell about the issue in the description also include what do we want to do amd click submit issue
      
   Make sure that the issue you found is not reported by other people
   

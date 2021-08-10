@@ -35,17 +35,8 @@ You can do some things,that is listed Below
   Those who know coding can also do the things told  in 'How To Contribute (Dont Know Coding)' Section.
   But we prefer this if you know coding
   
- The thing you have to do is :
- 
-          First, U have to Fork the repository by clicking the fork button on the top right button next to star button(Visible only in Desktop) and select your Github Account  and github will redirect to that repo 
-          
- Next Step
-               
-          Clone the repo from there  and  make the changes
-          
-Finally
-
-            Git Push to the repo under your account after that you will see a button Pull Request and make a Pull Request with brief description and full description that's all!
+ You have to do is 
+<a href = "https://github.com/firstcontributions/first-contributions"> Click Here</a> if you dont know how to contribute
 
 ### Website Link
 

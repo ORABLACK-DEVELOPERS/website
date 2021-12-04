@@ -3,6 +3,7 @@
 ORABLACK Developers website.
 
 If you liked this repository or say your support by clicking  'Star' !
+Disclaimer : This organisation will be deleted soon!
 
 # Contribute
  Contribute to help us!
